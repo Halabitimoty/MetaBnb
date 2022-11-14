@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MetaBnb/static/css/main.f613cd65.css",
+    "main.js": "/MetaBnb/static/js/main.20797e43.js",
+    "index.html": "/MetaBnb/index.html",
+    "main.f613cd65.css.map": "/MetaBnb/static/css/main.f613cd65.css.map",
+    "main.20797e43.js.map": "/MetaBnb/static/js/main.20797e43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f613cd65.css",
+    "static/js/main.20797e43.js"
+  ]
+}
